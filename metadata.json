@@ -1,0 +1,6 @@
+{
+  "name": "Joumana Hair Style — Salon de Coiffure & Coloration",
+  "description": "Site officiel de Joumana Hair Style (Joumana Coiffure), salon de coiffure en Algérie. Spécialiste balayage, décoloration, coloration, mèches et rituels capillaires.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
